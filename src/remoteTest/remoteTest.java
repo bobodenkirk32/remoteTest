@@ -5,6 +5,7 @@ public class remoteTest {
 		System.out.println("remoteTest");
 		System.out.println("remoteTest2");
 		System.out.println("remoteTest3");
+		System.out.println("remoteTest4");
 	}
 
 }
